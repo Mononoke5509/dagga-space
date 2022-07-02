@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/duotoneDark');
 const config = {
   title: 'Dagga Space',
   tagline: 'Your guide to marijuana',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://dagga.space',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
