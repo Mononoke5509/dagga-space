@@ -6,7 +6,7 @@
 export default {
   "title": "Dagga Space",
   "tagline": "Your guide to marijuana",
-  "url": "https://your-docusaurus-test-site.com",
+  "url": "https://dagga.space",
   "baseUrl": "/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
@@ -23,13 +23,21 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "C:\\Users\\timothy.brits\\Documents\\GitHub\\dagga.space\\sidebars.js"
+          "sidebarPath": "C:\\Users\\timothy.brits\\Documents\\GitHub\\dagga-space\\sidebars.js"
         },
         "blog": {
           "showReadingTime": true
         },
         "theme": {
-          "customCss": "C:\\Users\\timothy.brits\\Documents\\GitHub\\dagga.space\\src\\css\\custom.css"
+          "customCss": "C:\\Users\\timothy.brits\\Documents\\GitHub\\dagga-space\\src\\css\\custom.css"
+        },
+        "sitemap": {
+          "changefreq": "weekly",
+          "priority": 0.5,
+          "ignorePatterns": [
+            "/tags/**"
+          ],
+          "filename": "sitemap.xml"
         }
       }
     ]
