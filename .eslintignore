@@ -1,2 +1,8 @@
 node_modules/*
 static/*
+.docusaurus/*
+.git/*
+LICENSE
+README.md
+.gitattributes
+.gitignore
