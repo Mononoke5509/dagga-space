@@ -1,5 +1,5 @@
 # Dagga Space
-A simple and accessible cannabis guide and blog with no tracking, advertisements, or offers. Dagga Space is built with [Docusaurus](https://docusaurus.io/) v2.
+A simple and accessible cannabis guide and blog with no tracking, ads, or offers. Dagga Space is built with [Docusaurus](https://docusaurus.io/) v2.
 
 ## Running the app
 You'll need [Node](https://nodejs.org/en/) v16 or higher.
