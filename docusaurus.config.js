@@ -1,4 +1,3 @@
-/*global require, module*/
 // @ts-check
 
 const lightCodeTheme = require('prism-react-renderer/themes/github');
@@ -6,8 +5,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'Dagga Space',
+  tagline: 'Your trip to the cosmos',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -27,9 +26,7 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js')
         },
         blog: {
-          showReadingTime: true,
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/'
+          showReadingTime: true
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css')
@@ -42,9 +39,9 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'Dagga Space',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Dagga Space Logo',
           src: 'img/logo.svg'
         },
         items: [
