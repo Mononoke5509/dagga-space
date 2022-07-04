@@ -48,7 +48,7 @@ const config = {
         title: 'Dagga Space',
         logo: {
           alt: 'Dagga Space Logo',
-          src: 'img/logo.svg',
+          src: 'img/alien.png',
         },
         items: [
           {
