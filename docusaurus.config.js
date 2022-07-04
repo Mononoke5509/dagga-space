@@ -44,6 +44,18 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      announcementBar: {
+        id: 'under_construction',
+        content: '<strong>This site is under construction. Check back soon for updates!</strong>',
+        backgroundColor: '#015123',
+        textColor: '#ffffff',
+        isCloseable: false,
+      },
+      colorMode: {
+        defaultMode: 'dark',
+        disableSwitch: false,
+        respectPrefersColorScheme: true,
+      },
       navbar: {
         title: 'Dagga Space',
         logo: {
@@ -67,7 +79,7 @@ const config = {
       },
       footer: {
         style: 'dark',
-        copyright: `Dagga Space is licensed under the <a href="https://github.com/Mononoke5509/dagga-space/blob/main/LICENSE">GPL-3.0 license</a>. This site uses Cloudflare's privacy-first <a href="https://developers.cloudflare.com/analytics/web-analytics">Web Analytics</a>.<br> Built with 🦖 <a href="https://docusaurus.io/">Docusaurus</a>.`,
+        copyright: `🦖 Dagga Space is licensed under the <a href="https://github.com/Mononoke5509/dagga-space/blob/main/LICENSE">GPL-3.0 license</a>. Dagga Space uses Cloudflare's privacy-first <a href="https://developers.cloudflare.com/analytics/web-analytics">Web Analytics</a>.`,
       },
       prism: {
         theme: lightCodeTheme,
