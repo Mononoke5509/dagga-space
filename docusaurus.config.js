@@ -44,6 +44,19 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      announcementBar: {
+        id: 'under_construction',
+        content:
+          '🚧 <strong>This site is under construction. Check back soon for updates!</strong>',
+        backgroundColor: '#015123',
+        textColor: '#ffffff',
+        isCloseable: false,
+      },
+      colorMode: {
+        defaultMode: 'dark',
+        disableSwitch: false,
+        respectPrefersColorScheme: true,
+      },
       navbar: {
         title: 'Dagga Space',
         logo: {
