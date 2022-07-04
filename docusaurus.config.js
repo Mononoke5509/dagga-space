@@ -44,6 +44,18 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      metadata: [
+        {
+          name: 'keywords',
+          content:
+            'dagga, cannabis, marijuana, indica, sativa, hybrid, strain, strains, weed, blog',
+        },
+      ],
+      colorMode: {
+        defaultMode: 'dark',
+        disableSwitch: false,
+        respectPrefersColorScheme: true,
+      },
       announcementBar: {
         id: 'under_construction',
         content:
@@ -52,11 +64,7 @@ const config = {
         textColor: '#ffffff',
         isCloseable: false,
       },
-      colorMode: {
-        defaultMode: 'dark',
-        disableSwitch: false,
-        respectPrefersColorScheme: true,
-      },
+
       navbar: {
         title: 'Dagga Space',
         logo: {
