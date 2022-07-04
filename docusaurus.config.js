@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Dagga Space',
-  tagline: 'Your trip to the cosmos',
-  url: 'https://your-docusaurus-test-site.com',
+  tagline: 'Your trip to the cosmos 🪐',
+  url: 'https://dagga.space/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -55,11 +55,11 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Strains',
           },
           { to: '/blog', label: 'Blog', position: 'left' },
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/Mononoke5509/dagga-space',
             label: 'GitHub',
             position: 'right',
           },
@@ -67,48 +67,7 @@ const config = {
       },
       footer: {
         style: 'dark',
-        links: [
-          {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Tutorial',
-                to: '/docs/intro',
-              },
-            ],
-          },
-          {
-            title: 'Community',
-            items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
-              },
-            ],
-          },
-        ],
-        copyright: `Copyright © ${new Date().getFullYear()} Dagga Space. Built with Docusaurus.`,
+        copyright: `Dagga Space is licensed under the <a href="https://github.com/Mononoke5509/dagga-space/blob/main/LICENSE">GPL-3.0 license</a>. Built with 🦖 <a href="https://docusaurus.io/">Docusaurus</a>.`,
       },
       prism: {
         theme: lightCodeTheme,
