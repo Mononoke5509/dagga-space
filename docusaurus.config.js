@@ -1,7 +1,7 @@
 // @ts-check
 
-const lightCodeTheme = require('prism-react-renderer/themes/github');
-const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+const lightCodeTheme = require('prism-react-renderer/themes/duotoneLight');
+const darkCodeTheme = require('prism-react-renderer/themes/duotoneDark');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -80,7 +80,7 @@ const config = {
       },
       footer: {
         style: 'dark',
-        copyright: `Dagga Space is licensed under the <a href="https://github.com/Mononoke5509/dagga-space/blob/main/LICENSE">GPL-3.0 license</a>. This site uses Cloudflare's privacy-first <a href="https://developers.cloudflare.com/analytics/web-analytics">Web Analytics</a>.<br> Built with 🦖 <a href="https://docusaurus.io/">Docusaurus</a>.`,
+        copyright: `🦖 Dagga Space is licensed under the <a href="https://github.com/Mononoke5509/dagga-space/blob/main/LICENSE">GPL-3.0 license</a>. Dagga Space uses Cloudflare's privacy-first <a href="https://developers.cloudflare.com/analytics/web-analytics">Web Analytics</a>.`,
       },
       prism: {
         theme: lightCodeTheme,
