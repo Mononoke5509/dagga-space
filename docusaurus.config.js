@@ -1,5 +1,6 @@
-/*global module, require*/
 // @ts-check
+
+/*global module, require*/
 
 const lightCodeTheme = require('prism-react-renderer/themes/duotoneLight');
 const darkCodeTheme = require('prism-react-renderer/themes/duotoneDark');

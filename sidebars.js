@@ -1,5 +1,6 @@
-/*global module*/
 // @ts-check
+
+/*global module*/
 
 /** @type {import('@docusaurus/plugin-content-docs').SidebarsConfig} */
 const sidebars = {
