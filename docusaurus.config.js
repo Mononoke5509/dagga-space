@@ -1,3 +1,4 @@
+/*global module, require*/
 // @ts-check
 
 const lightCodeTheme = require('prism-react-renderer/themes/duotoneLight');
@@ -47,8 +48,7 @@ const config = {
       metadata: [
         {
           name: 'keywords',
-          content:
-            'dagga, cannabis, marijuana, indica, sativa, hybrid, strain, strains, weed, blog',
+          content: 'dagga, cannabis, marijuana, indica, sativa, hybrid, strain, weed, blog',
         },
       ],
       colorMode: {
@@ -58,8 +58,7 @@ const config = {
       },
       announcementBar: {
         id: 'under_construction',
-        content:
-          '🚧 <strong>This site is under construction. Check back soon for updates!</strong>',
+        content: '🚧 <strong>This site is still under construction!</strong>',
         backgroundColor: '#015123',
         textColor: '#ffffff',
         isCloseable: false,

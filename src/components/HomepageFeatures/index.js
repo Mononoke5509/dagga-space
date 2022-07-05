@@ -1,6 +1,9 @@
+/*global require*/
+
 import React from 'react';
 import clsx from 'clsx';
 import styles from './styles.module.css';
+import PropTypes from 'prop-types';
 
 const FeatureList = [
   {
@@ -62,3 +65,9 @@ export default function HomepageFeatures() {
     </section>
   );
 }
+
+Feature.propTypes = {
+  Svg: PropTypes.string,
+  title: PropTypes.string,
+  description: PropTypes.string,
+};
