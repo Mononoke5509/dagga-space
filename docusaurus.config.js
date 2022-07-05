@@ -49,7 +49,8 @@ const config = {
       metadata: [
         {
           name: 'keywords',
-          content: 'dagga, cannabis, marijuana, indica, sativa, hybrid, strain, weed, blog',
+          content:
+            'dagga, dagga space, cannabis, marijuana, indica, sativa, hybrid, strain, weed, pot, grass, ganja, mary jane',
         },
       ],
       colorMode: {
