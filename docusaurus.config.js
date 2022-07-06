@@ -25,7 +25,9 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          sidebarPath: require.resolve('./sidebars.js'),
+          // sidebarPath: require.resolve('./sidebars.js'),
+          path: './strains',
+          routeBasePath: '/strains',
         },
         blog: {
           showReadingTime: true,
@@ -89,7 +91,7 @@ const config = {
       },
       footer: {
         style: 'dark',
-        copyright: `🦖 Dagga Space is licensed under the <a href="https://github.com/Mononoke5509/dagga-space/blob/main/LICENSE">GPL-3.0 license</a>. Dagga Space uses Cloudflare's privacy-first <a href="https://developers.cloudflare.com/analytics/web-analytics">Web Analytics</a>.`,
+        copyright: `Dagga Space is licensed under the <a href="https://github.com/Mononoke5509/dagga-space/blob/main/LICENSE">GPL-3.0 license</a>. Dagga Space uses Cloudflare's privacy-first <a href="https://developers.cloudflare.com/analytics/web-analytics">Web Analytics</a>.`,
       },
       prism: {
         theme: lightCodeTheme,
