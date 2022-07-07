@@ -19,6 +19,18 @@ const config = {
     locales: ['en'],
   },
 
+  themes: [
+    [
+      require.resolve('@easyops-cn/docusaurus-search-local'),
+      {
+        hashed: true,
+        docsRouteBasePath: '/strains',
+        docsDir: 'strains',
+        removeDefaultStemmer: true,
+      },
+    ],
+  ],
+
   presets: [
     [
       'classic',
