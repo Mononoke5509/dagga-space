@@ -28,7 +28,7 @@ export default function Home() {
   return (
     <Layout
       title={`Dagga Space`}
-      description='Your trip to the cosmos. A simple guide and blog about cannabis.'
+      description='Your trip to the cosmos 🪐. A simple experiential encyclopedia and blog about cannabis.'
     >
       <HomepageHeader />
       <main>
