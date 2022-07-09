@@ -67,7 +67,7 @@ export default function HomepageFeatures() {
 }
 
 Feature.propTypes = {
-  Svg: PropTypes.string,
+  Svg: PropTypes.func,
   title: PropTypes.string,
-  description: PropTypes.string,
+  description: PropTypes.object,
 };
