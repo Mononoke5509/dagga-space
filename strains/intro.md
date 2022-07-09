@@ -4,4 +4,8 @@ sidebar_position: 1
 
 # Intro
 
-Let's discover **Dagga Space's strains in less than 5 minutes**.
+**Strains on Dagga Space fall into 3 categories:**
+
+- [Hybrid](https://dagga.space/strains/category/hybrid)
+- [Indica](https://dagga.space/strains/category/indica)
+- [Sativa](https://dagga.space/strains/category/sativa)

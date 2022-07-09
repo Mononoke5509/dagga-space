@@ -16,7 +16,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_to_the_stars.svg').default,
     description: (
       <>
-        Dagga Space is built with <a href='https://docusaurus.io'>Docusaurus</a> and{' '}
+        Dagga Space is built with <a href='https://docusaurus.io'>Docusaurus</a> 🦖 and{' '}
         <a href='https://reactjs.org/'>React</a>.
       </>
     ),
@@ -26,8 +26,8 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_search.svg').default,
     description: (
       <>
-        Dagga Space is split into a <a href='https://dagga.space/strains/'>Strains</a> section and a{' '}
-        <a href='https://dagga.space/blog/'>Blog</a> section.
+        Dagga Space has a <a href='/strains/intro'>Strains</a> section and a{' '}
+        <a href='/blog/'>Blog</a> section. Be sure to try our search!
       </>
     ),
   },
