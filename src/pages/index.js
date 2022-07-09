@@ -16,7 +16,7 @@ function HomepageHeader() {
         <p className='hero__subtitle'>{siteConfig.tagline}</p>
         <div className={styles.buttons}>
           <Link className='button button--secondary button--lg' to='/strains/intro'>
-            Docusaurus Tutorial - 5min ⏱️
+            Start exploring 🧭
           </Link>
         </div>
       </div>
@@ -28,7 +28,7 @@ export default function Home() {
   return (
     <Layout
       title={`Dagga Space`}
-      description='Your trip to the cosmos 🪐. A simple experiential encyclopedia and blog about cannabis.'
+      description='Your trip to the cosmos. A simple experiential encyclopedia and blog about cannabis.'
     >
       <HomepageHeader />
       <main>
