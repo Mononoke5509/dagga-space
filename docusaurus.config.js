@@ -42,6 +42,8 @@ const config = {
         },
         blog: {
           showReadingTime: true,
+          readingTime: ({ content, frontMatter, defaultReadingTime }) =>
+            frontMatter.hide_reading_time ? undefined : defaultReadingTime({ content }),
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -102,7 +104,7 @@ const config = {
       },
       footer: {
         style: 'dark',
-        copyright: `Dagga Space is licensed under the <a href="https://github.com/Mononoke5509/dagga-space/blob/main/LICENSE">GPL-3.0 license</a>. Dagga Space uses Cloudflare's privacy-first <a href="https://developers.cloudflare.com/analytics/web-analytics">Web Analytics</a>.`,
+        copyright: `Dagga Space is licensed under the <a href="https://github.com/Mononoke5509/dagga-space/blob/main/LICENSE">GPL-3.0 license</a>. We use Cloudflare's privacy-first <a href="https://developers.cloudflare.com/analytics/web-analytics">Web Analytics</a>.`,
       },
       prism: {
         theme: lightCodeTheme,

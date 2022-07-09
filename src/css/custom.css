@@ -7,7 +7,7 @@
   --ifm-color-primary-lighter: #35b46a;
   --ifm-color-primary-lightest: #4ebd7d;
   --ifm-code-font-size: 95%;
-  --docusaurus-highlighted-code-line-bg: #013015;
+  --docusaurus-highlighted-code-line-bg: #001007;
 }
 
 [data-theme='dark'] {
@@ -19,5 +19,5 @@
   --ifm-color-primary-lighter: #35b46a;
   --ifm-color-primary-lightest: #4ebd7d;
   --ifm-code-font-size: 95%;
-  --docusaurus-highlighted-code-line-bg: #013015;
+  --docusaurus-highlighted-code-line-bg: #001007;
 }

@@ -7,32 +7,27 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Free',
+    Svg: require('@site/static/img/undraw_savings.svg').default,
+    description: <>Dagga Space is free to use. We don&apos;t track you nor do we serve ads.</>,
+  },
+  {
+    title: 'Fast',
+    Svg: require('@site/static/img/undraw_to_the_stars.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and used to get your
-        website up and running quickly.
+        Dagga Space is built with <a href='https://docusaurus.io'>Docusaurus</a> and{' '}
+        <a href='https://reactjs.org/'>React</a>.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Simple',
+    Svg: require('@site/static/img/undraw_search.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go ahead and move your
-        docs into the <code>docs</code> directory.
-      </>
-    ),
-  },
-  {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
-    description: (
-      <>
-        Extend or customize your website layout by reusing React. Docusaurus can be extended while
-        reusing the same header and footer.
+        Dagga Space is split into a <a href='https://dagga.space/strains/'>Strains</a> section and a{' '}
+        <a href='https://dagga.space/blog/'>Blog</a> section.
       </>
     ),
   },
