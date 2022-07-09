@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/duotoneDark');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Dagga Space',
-  tagline: 'Your trip to the cosmos',
+  tagline: 'Your trip to the cosmos 🛸',
   url: 'https://dagga.space/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
