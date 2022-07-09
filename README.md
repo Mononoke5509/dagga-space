@@ -16,7 +16,7 @@ A simple and accessible cannabis guide and blog with no invasive tracking, ads, 
 
 ⚠️ Posts are invite only for now and will only be accepted via pull-requests.
 
-The setup has already been done. Ppost contributions should therefore typically only require `.md` or `.mdx` files. **Please** ask a maintainer to assist you with edits to `docusaurus.config.js`. Dagga Space posts support displaying the reading time. This can be disabled per-post in the `.md` or `.mdx` file.
+The setup has already been done. Post contributions should therefore typically only require `.md` or `.mdx` files. **Please** ask a maintainer to assist you with edits to `docusaurus.config.js`. Dagga Space posts support displaying the reading time. This can be disabled per-post in the `.md` or `.mdx` file.
 
 Please see:
 
