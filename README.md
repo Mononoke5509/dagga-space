@@ -7,7 +7,6 @@ A simple and accessible cannabis guide and blog with no invasive tracking, ads, 
 ## Running the app locally
 
 - Clone this repo
-
 - Using the terminal of your choice, execute `npm i` inside the repo folder
 - After all dependecies have been installed, execute `npm start` to run a dev build of the app locally
 - Execute `npm run build` and then `npm run serve` to run a production build of the app locally
