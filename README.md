@@ -1,6 +1,7 @@
-# 🚧 This site is a work in progress
+🚧 **This site is a work in progress.**
 
-## Dagga Space 👽
+
+# Dagga Space 👽
 
 A simple and accessible cannabis guide and blog with no invasive tracking, ads, or offers. Dagga Space is built with [Docusaurus](https://docusaurus.io/) v2.
 
@@ -13,7 +14,7 @@ A simple and accessible cannabis guide and blog with no invasive tracking, ads, 
 
 ## Contributing to the blog
 
-⚠️ Posts are invite only for now and will only be accepted via pull-requests.
+⚠️ Publishing posts are invite only for now and will only be accepted via pull-requests.
 
 The setup has already been done. Post contributions should therefore typically only require `.md` or `.mdx` files. **Please** ask a maintainer to assist you with edits to `docusaurus.config.js`. Dagga Space posts support displaying the reading time. This can be disabled per-post in the `.md` or `.mdx` file.
 
