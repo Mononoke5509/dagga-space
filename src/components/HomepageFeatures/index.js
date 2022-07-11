@@ -16,8 +16,8 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_to_the_stars.svg').default,
     description: (
       <>
-        Dagga Space is built with <a href='https://docusaurus.io'>Docusaurus</a> 🦖 and{' '}
-        <a href='https://reactjs.org/'>React</a>.
+        Dagga Space is built with <a href='https://docusaurus.io'>Docusaurus</a> and{' '}
+        <a href='https://reactjs.org/'>React</a>. This delivers a highly optimized site.
       </>
     ),
   },
