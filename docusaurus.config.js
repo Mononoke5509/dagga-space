@@ -43,7 +43,9 @@ const config = {
         blog: {
           showReadingTime: true,
           readingTime: ({ content, frontMatter, defaultReadingTime }) =>
-            frontMatter.hide_reading_time ? undefined : defaultReadingTime({ content }),
+            frontMatter.hide_reading_time
+              ? undefined
+              : defaultReadingTime({ content }),
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -65,7 +67,7 @@ const config = {
         {
           name: 'keywords',
           content:
-            'dagga, dagga space, cannabis, marijuana, indica, sativa, hybrid, strain, weed, pot, grass, ganja, mary jane',
+            'dagga, dagga space, cannabis, marijuana, indica, sativa, hybrid, strain, weed, pot, grass, ganja, mary jane, 420',
         },
       ],
       colorMode: {
