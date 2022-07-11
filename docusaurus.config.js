@@ -78,8 +78,8 @@ const config = {
       announcementBar: {
         id: 'under_construction',
         content: '🚧 <strong>This site is still under construction!</strong>',
-        backgroundColor: '#015123',
-        textColor: '#ffffff',
+        backgroundColor: '#FF324F',
+        textColor: '#000000',
         isCloseable: false,
       },
 
