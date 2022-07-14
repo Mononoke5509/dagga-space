@@ -1,0 +1,8 @@
+**/build
+**/.docusaurus
+**/.eslintrc.json
+**/static
+**/.git
+**/.svn
+**/.hg
+**/node_modules
