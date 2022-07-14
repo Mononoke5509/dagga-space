@@ -9,15 +9,20 @@ const FeatureList = [
   {
     title: 'Free',
     Svg: require('@site/static/img/undraw_savings.svg').default,
-    description: <>Dagga Space is free to use. We don&apos;t track you nor do we serve ads.</>,
+    description: (
+      <>
+        Dagga Space is free to use. We don&apos;t track you nor do we serve ads.
+      </>
+    ),
   },
   {
     title: 'Fast',
     Svg: require('@site/static/img/undraw_to_the_stars.svg').default,
     description: (
       <>
-        Dagga Space is built with <a href='https://docusaurus.io'>Docusaurus</a> and{' '}
-        <a href='https://reactjs.org/'>React</a>. This delivers a highly optimized site.
+        Dagga Space is built with <a href='https://docusaurus.io'>Docusaurus</a>{' '}
+        and <a href='https://reactjs.org/'>React</a>. This delivers a highly
+        optimized site.
       </>
     ),
   },
