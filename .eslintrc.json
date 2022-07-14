@@ -7,9 +7,7 @@
     "eslint:recommended",
     "plugin:react/recommended",
     "prettier",
-    "plugin:yml/standard",
-    "plugin:jsonc/recommended-with-jsonc",
-    "plugin:mdx/recommended"
+    "plugin:jsonc/recommended-with-jsonc"
   ],
   "parserOptions": {
     "ecmaFeatures": {
@@ -23,7 +21,6 @@
   "settings": {
     "react": {
       "version": "detect"
-    },
-    "mdx/code-blocks": false
+    }
   }
 }
