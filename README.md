@@ -8,7 +8,7 @@ A simple and accessible cannabis guide and blog with no invasive tracking, ads, 
 
 
 **Requirements:**
-- Node v16.x
+- Node v16+
 
 **Steps:**
 - Clone this repo
