@@ -37,7 +37,7 @@ const config = {
       ({
         docs: {
           path: './strains',
-          routeBasePath: '/',
+          routeBasePath: '/strains',
         },
         blog: false,
         theme: {
