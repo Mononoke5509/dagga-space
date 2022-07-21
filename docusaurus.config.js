@@ -37,7 +37,7 @@ const config = {
       ({
         docs: {
           path: './strains',
-          routeBasePath: '/strains',
+          routeBasePath: '/',
         },
         blog: false,
         theme: {
@@ -73,7 +73,7 @@ const config = {
         content: '🚧 <strong>This site is still under construction!</strong>',
         backgroundColor: '#FF324F',
         textColor: '#000000',
-        isCloseable: true,
+        isCloseable: false,
       },
 
       navbar: {
