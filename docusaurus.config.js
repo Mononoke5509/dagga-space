@@ -1,7 +1,6 @@
 // @ts-check
 
 /*global module, require*/
-
 const lightCodeTheme = require('prism-react-renderer/themes/duotoneLight');
 const darkCodeTheme = require('prism-react-renderer/themes/duotoneDark');
 
@@ -40,13 +39,7 @@ const config = {
           path: './strains',
           routeBasePath: '/strains',
         },
-        blog: {
-          showReadingTime: true,
-          readingTime: ({ content, frontMatter, defaultReadingTime }) =>
-            frontMatter.hide_reading_time
-              ? undefined
-              : defaultReadingTime({ content }),
-        },
+        blog: false,
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -96,7 +89,6 @@ const config = {
             position: 'left',
             label: 'Strains',
           },
-          { to: '/blog', label: 'Blog', position: 'left' },
           {
             href: 'https://github.com/Mononoke5509/dagga-space',
             label: 'GitHub',

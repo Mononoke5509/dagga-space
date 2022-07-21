@@ -31,8 +31,8 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_search.svg').default,
     description: (
       <>
-        Dagga Space has a <a href='/strains/intro'>Strains</a> section and a{' '}
-        <a href='/blog/'>Blog</a> section. Be sure to try our search!
+        Dagga Space aims to be like a documentation site for cannabis. Nothing
+        more.
       </>
     ),
   },
