@@ -73,7 +73,7 @@ const config = {
         content: '🚧 <strong>This site is still under construction!</strong>',
         backgroundColor: '#FF324F',
         textColor: '#000000',
-        isCloseable: false,
+        isCloseable: true,
       },
 
       navbar: {
