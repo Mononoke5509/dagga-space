@@ -31,7 +31,7 @@ export default function Home() {
   return (
     <Layout
       title={`Home`}
-      description='Your trip to the cosmos. A simple experiential encyclopedia and blog about cannabis.'
+      description='Your trip to the cosmos. A simple experiential encyclopedia about cannabis.'
     >
       <HomepageHeader />
       <main>
