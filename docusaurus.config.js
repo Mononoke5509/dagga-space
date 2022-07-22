@@ -68,14 +68,6 @@ const config = {
         disableSwitch: false,
         respectPrefersColorScheme: true,
       },
-      announcementBar: {
-        id: 'under_construction',
-        content: '🚧 <strong>This site is still under construction!</strong>',
-        backgroundColor: '#FF324F',
-        textColor: '#000000',
-        isCloseable: false,
-      },
-
       navbar: {
         title: 'Dagga Space',
         logo: {
@@ -95,6 +87,7 @@ const config = {
             position: 'right',
           },
         ],
+        hideOnScroll: true,
       },
       footer: {
         style: 'dark',
