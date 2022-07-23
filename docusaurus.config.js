@@ -60,7 +60,11 @@ const config = {
         {
           name: 'keywords',
           content:
-            'dagga, dagga space, cannabis, marijuana, indica, sativa, hybrid, strain, weed, pot, grass, ganja, mary jane, 420',
+            'dagga, dagga.space, dagga space, cannabis, marijuana, indica, sativa, hybrid, strain, weed, pot, grass, ganja, mary jane, 420',
+        },
+        {
+          name: 'manifest',
+          href: '/manifest.json',
         },
       ],
       colorMode: {
