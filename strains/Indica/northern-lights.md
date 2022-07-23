@@ -7,28 +7,31 @@ keywords: [northern lights, nl, strain, indica, cannabis, afghani, thai]
 
 ## Intro
 
-**Northern Lights** _(aka. "NL")_ is an indica cannabis strain resulting from crossing the **Afghani** and **Thai** strains. This legendary strain is known for producing a strong euphoric body high, relaxing muscles and easing the mind. NL has a pungently sweet and spicy flavour profile that's smooth to smoke. NL may help relieve symptoms associated with stress, pain, and wakefulness.
+**Northern Lights** _(aka. "NL")_ is an indica cannabis strain resulting from crossing the **Afghani** and **Thai** strains. This legendary strain is known for producing a strong euphoric mixed body-mind high, relaxing muscles and easing the mind. A puff from this strain is bound to lead to a blissful state.
 
-## Quick stats
+NL has a pungently sweet and spicy flavour profile that's smooth to smoke. This strain is a favourite amongst medical cannabis users as it may help relieve symptoms associated with stress, pain, and wakefulness.
 
-### Notable cannabinoid potencies
+## Quick Stats
+
+### Notable Cannabinoid Potencies
 
 | Cannabinoid | Content |
 | ----------- | ------- |
 | THC         | 18%     |
 | CBG         | 1%      |
 
-### Common feelings and flavours
+### Common Feelings and Flavours
 
 | Feeling  | Flavour |
 | -------- | ------- |
-| Sleepy   | Pine    |
-| Relaxed  | Spicy   |
-| Munchies | Herbal  |
+| Sleepy   | Piney   |
+| Relaxed  | Sweet   |
+| Euphoric | Earthy  |
+| Happy    | Spicy   |
 
-### Dominant terpene
+### Dominant Terpene
 
-**Myrcene** _(herbal)_ is the dominant terpene in Northern Lights. This leads to an herbal or otherwise earthly scent.
+**Myrcene** _(herbal)_ is the dominant terpene in Northern Lights. This leads to an earthy or herbal scent.
 
 #### Other notable terpenes
 
