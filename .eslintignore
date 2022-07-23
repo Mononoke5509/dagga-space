@@ -1,9 +1,6 @@
-**/build
 **/.docusaurus
-**/static
+**/build
 **/.git
 **/.svn
 **/.hg
 **/node_modules
-**/.github
-**/CODE_OF_CONDUCT.md
