@@ -3,6 +3,7 @@ sidebar_position: 1
 title: Northern Lights
 description: Cannabis sativa subsp. indica
 keywords: [northern lights, nl, strain, indica, cannabis, afghani, thai]
+tags: [northern lights, afghani, thai]
 ---
 
 ## Intro
@@ -31,7 +32,7 @@ NL has a pungently sweet and spicy flavour profile that's smooth to smoke. This 
 
 ### Dominant Terpene
 
-**Myrcene** _(herbal)_ is the dominant terpene in Northern Lights. This leads to an earthy or herbal scent.
+**Myrcene** _(herbal)_ is the dominant terpene in **Northern Lights**. This leads to an earthy or herbal scent.
 
 #### Other notable terpenes
 

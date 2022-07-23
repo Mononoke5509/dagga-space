@@ -2,6 +2,7 @@
 import clsx from 'clsx';
 import PropTypes from 'prop-types';
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 import styles from './styles.module.css';
 
@@ -11,7 +12,8 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_savings.svg').default,
     description: (
       <>
-        Dagga Space is free to use. We don&apos;t track you nor do we serve ads.
+        Dagga Space is open-source and free to access. We don&apos;t track you,
+        nor do we serve ads.
       </>
     ),
   },
@@ -20,9 +22,9 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_to_the_stars.svg').default,
     description: (
       <>
-        Dagga Space is built with <a href='https://docusaurus.io'>Docusaurus</a>{' '}
-        and <a href='https://reactjs.org/'>React</a>. This delivers a highly
-        optimized site.
+        Dagga Space is fast and lightweight thanks to{' '}
+        <a href='https://docusaurus.io'>🦖 Docusaurus</a> and{' '}
+        <a href='https://reactjs.org/'>React</a>.
       </>
     ),
   },
@@ -31,8 +33,8 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_search.svg').default,
     description: (
       <>
-        Dagga Space aims to be like a documentation site for cannabis. Nothing
-        more.
+        Dagga Space is documentation for stoners. Head on over to{' '}
+        <Link to={'strains/intro'}>Strains</Link>{' '}
       </>
     ),
   },
