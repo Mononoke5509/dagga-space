@@ -11,7 +11,7 @@ const config = {
   url: 'https://dagga.space/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  onBrokenMarkdownLinks: 'throw',
   favicon: 'img/favicon.ico',
   i18n: {
     defaultLocale: 'en',
@@ -91,7 +91,7 @@ const config = {
             position: 'right',
           },
         ],
-        hideOnScroll: true,
+        hideOnScroll: false,
       },
       footer: {
         style: 'dark',
