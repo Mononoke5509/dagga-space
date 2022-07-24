@@ -26,3 +26,7 @@ html,
 body {
   height: 100%;
 }
+
+.more-top-margin {
+  margin-top: 32px;
+}

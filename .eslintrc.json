@@ -3,7 +3,12 @@
     "browser": true,
     "es2021": true
   },
-  "extends": ["eslint:recommended", "plugin:react/recommended", "prettier"],
+  "extends": [
+    "eslint:recommended",
+    "plugin:react/recommended",
+    "prettier",
+    "plugin:jsonc/recommended-with-jsonc"
+  ],
   "parserOptions": {
     "ecmaFeatures": {
       "jsx": true
