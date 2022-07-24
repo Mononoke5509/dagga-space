@@ -73,6 +73,7 @@ const config = {
         respectPrefersColorScheme: true,
       },
       navbar: {
+        title: 'Dagga Space',
         logo: {
           alt: 'Dagga Space Logo',
           src: 'img/alien.png',
