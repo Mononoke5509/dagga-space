@@ -8,7 +8,7 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Free',
+    title: 'Open-Source',
     Svg: require('@site/static/img/undraw_savings.svg').default,
     description: (
       <>
@@ -18,11 +18,11 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Fast',
+    title: 'Lightweight',
     Svg: require('@site/static/img/undraw_to_the_stars.svg').default,
     description: (
       <>
-        Dagga Space is fast and lightweight thanks to{' '}
+        Dagga Space is lightweight and fast thanks to{' '}
         <a href='https://docusaurus.io'>🦖 Docusaurus</a> and{' '}
         <a href='https://reactjs.org/'>React</a>.
       </>
@@ -33,8 +33,8 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_search.svg').default,
     description: (
       <>
-        Dagga Space is documentation for stoners. Head on over to{' '}
-        <Link to={'strains/intro'}>Strains</Link>{' '}
+        Dagga Space is like documentation for stoners. Head on over to{' '}
+        <Link to={'strains/intro'}>Strains</Link>.
       </>
     ),
   },
