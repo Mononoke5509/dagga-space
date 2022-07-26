@@ -6,7 +6,7 @@ A simple and accessible experiential encyclopedia with no invasive tracking, ads
 
 **Requirements:**
 
-- Node v16+
+- Node 16.x or higher
 
 **Steps:**
 
