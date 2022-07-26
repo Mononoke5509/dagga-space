@@ -16,3 +16,5 @@ A simple and accessible experiential encyclopedia with no invasive tracking, ads
 - Execute `npm run build` and then `npm run serve` to run a production build of the app locally
 
 🚧 **This site is a work in progress!**
+
+[![Node.js CI](https://github.com/Mononoke5509/dagga-space/actions/workflows/node.js.yml/badge.svg)](https://github.com/Mononoke5509/dagga-space/actions/workflows/node.js.yml) [![CodeQL](https://github.com/Mononoke5509/dagga-space/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/Mononoke5509/dagga-space/actions/workflows/codeql-analysis.yml) [![Dependency Review](https://github.com/Mononoke5509/dagga-space/actions/workflows/dependency-review.yml/badge.svg)](https://github.com/Mononoke5509/dagga-space/actions/workflows/dependency-review.yml)
