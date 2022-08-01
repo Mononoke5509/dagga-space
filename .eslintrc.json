@@ -6,9 +6,8 @@
   "extends": [
     "eslint:recommended",
     "plugin:react/recommended",
-    "plugin:jsonc/recommended-with-jsonc",
-    "plugin:mdx/recommended",
-    "prettier"
+    "prettier",
+    "plugin:jsonc/recommended-with-jsonc"
   ],
   "parserOptions": {
     "ecmaFeatures": {
